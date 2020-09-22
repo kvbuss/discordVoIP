@@ -8,7 +8,7 @@ sudo add-apt-repository ppa:deadsnakes/ppa # When prompted press Enter to contin
 sudo apt install python3.8 python3-venv tmux
 mkdir ~/discordVoIP_Server
 cd ~/discordVoIP_Server
-git clone "https://github.com/Pitu7944/discordVoIP.git" ./
+git clone "https://github.com/kvbuss/discordVoIP.git" ./
 python3.8 -m venv env
 ``` 
 
