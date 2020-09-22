@@ -3,8 +3,6 @@
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]()
 
-[![GitHub issues]](https://github.com/kvbuss/discordVoIP/issues)
-
 
 **discordVoIP** is a **FiveM** script for using discord as voice in radios, phones and more.
 It provides a simple api for adding job restricted channels, and more. 
